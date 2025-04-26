@@ -8,11 +8,11 @@
 body {
     font-size: 1rem;
     font-family: 'Fadilha';
-    background-color: #2600ffbe;
+    background-color: #2600ff;
 }
 
 header {
-    background-color: #2600ffbe;
+    background-color: #2600ff;
 }
 
 
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #b416f3be;
+    color: #2600ff;
     font-weight: 600;
 }
 
@@ -101,7 +101,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #b367e696;
+    background-color: #2600ff;
 
 }
 
@@ -119,7 +119,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #b36ee0;
+    background-color: #2600ff;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -130,11 +130,11 @@ h2 {
 }
 
 .formulario button {
-    background-color: #af73bb;
+    background-color: #2600ff;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #b42fc5;
+    background-color: #2600ff;
 }
